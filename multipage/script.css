@@ -12,6 +12,17 @@
     width: 255px;
 }
 
+a{
+    color:cornflowerblue;
+}
+
+/* hoover effect */
+a:hover{
+    background-color: blue;
+}
+
+
+
 .items{
     color: white;
     padding-right: 10px;
