@@ -1,5 +1,8 @@
+/* shawdow effect */
+
 h1{
     font-family: 'Fredericka the Great', cursive;
+    text-shadow: 2px 2px white;
 }
 
 p{
@@ -20,7 +23,7 @@ footer{
 /* Ghost CSS */
 
 body {
-    background-color: #ff4814;
+    background-color: #e7643f;
   }
   
   .container {
@@ -47,9 +50,10 @@ body {
   .shadow {
     animation: shrink 3s ease-out infinite;
     transform-origin: center center;
-    ellipse {
+    /* ellipse { 
       transform-origin: center center;
     }
+    */
   }
   
   @keyframes shrink {

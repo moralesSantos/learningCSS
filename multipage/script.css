@@ -1,6 +1,4 @@
-body {
-    background-color: white;
-}
+
 
 .search{
     /* background-color: white; */
@@ -34,7 +32,6 @@ body {
     box-sizing: border-box;
     float:inline-start;
     padding-right: 10px;
-
 }
 
 #grid{
