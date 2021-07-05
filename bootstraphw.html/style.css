@@ -1,0 +1,14 @@
+.navbar-expand-lg{
+    background-color: crimson;
+}
+
+.navbar-dark{
+    background-color: crimson;
+}
+
+.container{
+    color: darkblue;
+    background-color: rgb(245, 241, 28);
+    font-size: 25px;
+}
+
