@@ -46,8 +46,21 @@ form{
 }
 
 .btn-primary {
-    background: red;
+    background: rgb(192, 88, 88);
     color: #ffffff;
     border: none;
     border-radius: 0%;
+}
+
+.dropdown{
+    /* background-color: red; */
+
+}
+
+.dropdown-menu{
+    background-color: rgb(190, 91, 91);
+}
+
+.dropdown-item{
+    color: white;
 }
