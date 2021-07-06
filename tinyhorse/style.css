@@ -1,0 +1,39 @@
+
+.btn-outline-success{
+    background-color: rgb(238, 40, 40);
+    color: rgb(255, 255, 255);
+    border: none;
+
+}
+
+/* .navbar-nav{
+    background-image: url('https://mdbootstrap.com/img/new/fluid/city/018.jpg');
+} */
+
+.nav-item{
+    color:rgb(255, 255, 255)
+}
+
+li.nav-item{
+    color: rgb(255, 255, 255);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255);
+}
+
+
+h1{
+    padding-top: 250px;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.form-control{
+}
+
+p{
+    color:rgba(78, 76, 76, 0.698);
+}
