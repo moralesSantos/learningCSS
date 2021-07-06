@@ -27,13 +27,27 @@ h1{
     padding-top: 250px;
     text-align: center;
     color: white;
-    font-size: 100px;
+    font-size: 115px;
     font-weight: bold;
-}
-
-.form-control{
 }
 
 p{
     color:rgba(78, 76, 76, 0.698);
+}
+
+
+form{
+    text-align: center;
+}
+.form-group{
+    padding-left:25%;
+    padding-right: 25%;
+    text-align: center;
+}
+
+.btn-primary {
+    background: red;
+    color: #ffffff;
+    border: none;
+    border-radius: 0%;
 }
